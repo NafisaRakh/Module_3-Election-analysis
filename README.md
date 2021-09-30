@@ -54,7 +54,7 @@ The analysis of the election show that there were 369,711 votes cast in the elec
 
 While reading the election results from each row inside the for loop, writing a script that gets the county name from each row.
 
-![Image_5](Resources/For_script.png)
+![Image_5](Resources/a_script_1.png)
 
 While reading the election results writing this script below the screenshot that calculates the county’s votes as a percentage of the total votes and writing a print statement that prints the current county, its percentage of the total votes, and its total votes to the command line.
 
