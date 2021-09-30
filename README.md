@@ -58,7 +58,7 @@ While reading the election results from each row inside the for loop, writing a 
 
 While reading the election results writing this script below the screenshot that calculates the county’s votes as a percentage of the total votes and writing a print statement that prints the current county, its percentage of the total votes, and its total votes to the command line.
 
-![image_6](Resources/If_script.png)
+![image_6](Resources/a_script_2.png)
 
 
 
