@@ -18,7 +18,7 @@ In a result Denver county had the largest number of votes (306,055 total votes, 
 So the last county was Arapahoe which has the smallest number of votes. 24,801 total votes, it is about 6.7%.
 Largest County Turnout county was Denver.
 
-![image_2]()
+![image_2](Resources/County_Votes.png)
   
 According to this Election Analysis Candidate results Diana DeGette recieved the largest number of votes 73.8% (272,892). Charles Casper Stockham is the second person who got 85,213 number of votes, 23.0% of the total votes. So, the smallest number 11,606 of votes was recieved by Raymon Anthony Doane. It about 3.1$ of the total votes cast in the election. Above the following image you can see Candidate results.
 
