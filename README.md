@@ -26,7 +26,7 @@ According to this Election Analysis Candidate results Diana DeGette recieved the
 
 Finally, The winner of the election was Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
-![image_4]()
+![image_4](Resources/Election_Winner.png)
 
 ## Election-Audit Summary:
 
