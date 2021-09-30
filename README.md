@@ -11,7 +11,7 @@
 Attached below are the screenshots that indicate the Election Audit Results. 
 As you can see from the image  369,711 total votes were cast in this congressional election.
 
-![image_1]()
+![image_1](Resources/Election_Results.png)
 
 To provide you a breakdown of the number of votes and percentage of total votes for each county in the precinct I attached below the screenshot. 
 In a result Denver county had the largest number of votes (306,055 total votes, 82.8% ). The second largest number of votes in Jefferson county (38,855 total votes, 10,5%) 
