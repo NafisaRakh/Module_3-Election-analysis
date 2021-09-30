@@ -52,7 +52,7 @@ The analysis of the election show that there were 369,711 votes cast in the elec
 
 ### To provide you a business proposal to the election commission on those scripts can be used with modifications for any Election. 
 While reading the election results from each row inside the for loop, writing a script that gets the county name from each row.
-![Image_5]()
+![Image_5](Resources/For_script.png)
 
 
 
