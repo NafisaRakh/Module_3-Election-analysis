@@ -51,10 +51,12 @@ The analysis of the election show that there were 369,711 votes cast in the elec
 **Diana DeGette**, who received **272,892** number of votes, **73.8%** of the total votes cast in the election.**
 
 ### To provide you a business proposal to the election commission on those scripts can be used with modifications for any Election. 
+
 While reading the election results from each row inside the for loop, writing a script that gets the county name from each row.
+
 ![Image_5](Resources/For_script.png)
 
-
+While reading the election results writing this script below the screenshot that calculates the county’s votes as a percentage of the total votes and writing a print statement that prints the current county, its percentage of the total votes, and its total votes to the command line.
 
 ![image_6](Resources/If_script.png)
 
