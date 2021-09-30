@@ -24,36 +24,30 @@ Image_3
 
 Finally, The winner of the election was Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
-
-
-
-
-Election Winner:
-
-Diana DeGette
-
-Vote Count: 272,892
-
-Percentage: 73.8%
-
 ## Election-Audit Summary:
-The analysis of the election show that:
+The analysis of the election show that there were 369,711 votes cast in the election.
+**The candidates were:**
 
-There were 369,711 votes cast in the election.
+*Charles Casper Stockham
+*Diana DeGette
+*Raymon Anthony Doane
 
-The candidates were:
+**The candidate results were:**
 
-Charles Casper Stockham
-Diana DeGette
-Raymon Anthony Doane
-The candidate results were:
+*Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
 
-Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+*Diana DeGette received 73.8% of the vote and 272,892 number of votes.
 
-Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+*Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 
-Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+**The winner of the election was:**
 
-The winner of the election was:
+**Diana DeGette**, who received **272,892** number of votes, **73.8%** of the total votes cast in the election.**
 
-Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
+To provide you a business proposal to the election commission on those scripts can be used with modifications for any Election. 
+
+
+
+
+
+
