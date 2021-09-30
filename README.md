@@ -56,7 +56,7 @@ While reading the election results from each row inside the for loop, writing a 
 
 
 
-![image_6]()
+![image_6](Resources/If_script.png)
 
 
 
